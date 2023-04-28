@@ -1,2 +1,8 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/0iXmcPD0)
 # ICS4-Battlebots
+Kudos to [ProfSamScott](https://github.com/ProfSamScott/BattleBots) for making this!
+
+Each of my classmates and I made a bot to compete against each other in a death battle, my contribution is under [MamoBot.Java](https://github.com/Dan245/battleBots/blob/main/bots/MamoBot.java). 
+
+The code isn't really annotated but you can find a copy of my report [here](https://docs.google.com/document/d/1pTlbIay42FX0Rl50MheUOvDoPP_6jc-EXEmNEIbgbro/edit?usp=share_link) where I documented my progress.
+
+There's no JAR file or anything so if you want to run the program yourself you'll need to download it as a zip and run it like any other java project in your IDE.
