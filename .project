@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>battlebots-this-is-it-class-team-awesome</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+
+	</buildSpec>
+	<natures>
+	</natures>
+	<filteredResources>
+		<filter>
+			<id>1680063371488</id>
+
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+
+	<filteredResources>
+		<filter>
+
+			<id>1679858460083</id>
+
+			<id>1679663058754</id>
+
+
+	<filteredResources>
+		<filter>
+			<id>1679662675462</id>
+
+
+			<name></name>
+			<type>30</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>node_modules|\.git|__CREATED_BY_JAVA_LANGUAGE_SERVER__</arguments>
+			</matcher>
+		</filter>
+	</filteredResources>
+
+
+
+
+</projectDescription>
